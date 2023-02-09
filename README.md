@@ -1,4 +1,4 @@
-# ble-foundation-project
+# ble-playground-project
 
 ## "BLE Playground" Project for the Bluetooth Developer Academy
 
