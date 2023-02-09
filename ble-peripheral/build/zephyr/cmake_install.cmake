@@ -39,236 +39,236 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/arch/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/arch/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/lib/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/soc/arm/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/soc/arm/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/boards/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/boards/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/subsys/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/subsys/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/drivers/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/drivers/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/nrf/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/nrf/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/hostap/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/hostap/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/mcuboot/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/mcuboot/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/mbedtls/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/mbedtls/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/trusted-firmware-m/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/trusted-firmware-m/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/cjson/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/cjson/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/azure-sdk-for-c/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/azure-sdk-for-c/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/memfault-firmware-sdk/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/memfault-firmware-sdk/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/cirrus-logic/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/cirrus-logic/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/openthread/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/openthread/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/canopennode/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/canopennode/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/chre/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/chre/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/cmsis/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/cmsis/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/fatfs/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/fatfs/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/hal_nordic/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/hal_nordic/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/st/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/st/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/hal_wurthelektronik/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/hal_wurthelektronik/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/libmetal/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/libmetal/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/liblc3/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/liblc3/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/littlefs/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/littlefs/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/loramac-node/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/loramac-node/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/lvgl/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/lvgl/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/lz4/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/lz4/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/mipi-sys-t/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/mipi-sys-t/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/nanopb/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/nanopb/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/nrf_hw_models/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/nrf_hw_models/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/open-amp/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/open-amp/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/picolibc/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/picolibc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/segger/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/segger/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/tinycbor/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/tinycbor/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/tinycrypt/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/tinycrypt/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/TraceRecorder/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/TraceRecorder/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/uoscore-uedhoc/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/uoscore-uedhoc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/zcbor/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/zcbor/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/zscilib/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/zscilib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/nrfxlib/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/nrfxlib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/modules/connectedhomeip/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/modules/connectedhomeip/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/kernel/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/kernel/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/cmake/flash/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/cmake/flash/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/cmake/usage/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/cmake/usage/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/zephyr/cmake/reports/cmake_install.cmake")
+  include("/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/zephyr/cmake/reports/cmake_install.cmake")
 endif()
 

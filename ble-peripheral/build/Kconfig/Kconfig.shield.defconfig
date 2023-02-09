@@ -1,1 +1,2 @@
+osource "/Users/mafaneh/Projects/ncs/peripheral_lbs/boards/shields/*/Kconfig.defconfig"
 osource "/opt/nordic/ncs/v2.2.0/nrf/boards/shields/*/Kconfig.defconfig"

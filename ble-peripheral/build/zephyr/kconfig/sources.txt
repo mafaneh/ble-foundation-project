@@ -1,7 +1,7 @@
-/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/Kconfig/Kconfig.dts
-/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/Kconfig/Kconfig.modules
-/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/Kconfig/Kconfig.shield
-/Users/mafaneh/Projects/ble-foundation-project/ble-project/build/Kconfig/Kconfig.shield.defconfig
+/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/Kconfig/Kconfig.dts
+/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/Kconfig/Kconfig.modules
+/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/Kconfig/Kconfig.shield
+/Users/mafaneh/Projects/ble-playground-project/ble-peripheral/build/Kconfig/Kconfig.shield.defconfig
 /opt/nordic/ncs/toolchains/v2.2.0/opt/zephyr-sdk/cmake/zephyr/Kconfig
 /opt/nordic/ncs/v2.2.0/modules/debug/TraceRecorder/config/Kconfig
 /opt/nordic/ncs/v2.2.0/modules/debug/TraceRecorder/kernelports/Zephyr/Kconfig
