@@ -1,6 +1,6 @@
 # ble-playground-project
 
-## "BLE Playground" Project for the Bluetooth Developer Academy
+## The One-Stop BLE Playground Repo
 
 This serves as a playground for developing various BLE features on various platforms.
 
