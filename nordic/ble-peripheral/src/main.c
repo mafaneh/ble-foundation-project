@@ -102,7 +102,7 @@ BT_GATT_SERVICE_DEFINE(
     // Properties: Read, Write
     BT_GATT_CHARACTERISTIC(&led1_char_uuid.uuid,
                     BT_GATT_CHRC_READ | BT_GATT_CHRC_WRITE,
-                    BT_GATT_PERM_READ | BT_GATT_PERM_WRITE,
+                    BT_GATT_PERM_READ | BT_GATT_PERM_WRITE_ENCRYPT,
                     read_led,
                     write_led,
                     &led_value)
